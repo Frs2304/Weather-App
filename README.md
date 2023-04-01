@@ -10,13 +10,6 @@ This is a simple Weather App that allows users to check the current weather cond
     Display the weather forecast for the next five days.
     Ability to switch between Celsius and Fahrenheit temperature units.
 
-## Technologies
-
-    HTML
-    CSS
-    JavaScript
-    OpenWeatherMap API
-
 ## How to Use
 
     Clone the repository or download the zip file.
@@ -31,3 +24,10 @@ This is a simple Weather App that allows users to check the current weather cond
 
 ## Weathermap Api - 
      The API provider: https://www.OpenWeatherMap.org
+     
+## Technologies
+
+    HTML
+    CSS
+    JavaScript
+    OpenWeatherMap API
