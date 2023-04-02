@@ -1,4 +1,4 @@
-# A Simple Static Weather web application
+# A Simple Static Weather Web App
 ![Logo](https://github.com/Frs2304/Weather-App/blob/main/Weather-App%20JavaScript%20Screenshot.png?raw=true) 
 
 This is a simple Weather App that allows users to check the current weather condition and forecast of any location around the world. The app is powered by the WeatherMap API and built using HTML, CSS, and JavaScript.
