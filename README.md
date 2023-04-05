@@ -27,7 +27,7 @@ This is a simple Weather App that allows users to check the current weather cond
      
 ## Technologies
 
-    HTML
-    CSS
+    HTML5
+    CSS3
     JavaScript
     OpenWeatherMap API
